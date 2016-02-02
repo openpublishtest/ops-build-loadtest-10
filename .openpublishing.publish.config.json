@@ -2,7 +2,7 @@
   "build_entry_point": "",
   "docsets_to_publish": [
     {
-      "docset_name": "build-loadtest-minisize",
+      "docset_name": "minisize",
       "build_output_subfolder": "minisize",
       "locale": "en-us",
       "version": 0,
